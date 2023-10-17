@@ -1,6 +1,6 @@
 # BMI
 
---> To install dependencies install "flutter pub get":
+--> To install dependencies Run "flutter pub get":
 
 A new Flutter project.
 
